@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: 2018 January 4, Thursday
+##### Premise: I started studying coding a few months ago, but I really never established a discipline. In November 2017 I passed the first selection for the Google/Udacity Scholarship for Front-End Development, and I'm currently busy trying to adding extra functionalities to my final project. I'm also studying Python (Udemy, Codeacademy, SoloLearn), and I will keep track of it as well. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I'm still working on my Pixel Art Maker project. In a brief, the user can select the grid size, pick a color and draw in the grid cells. 
+I've created a button which toggle the music on/off. I styled the buttons and created a transition effect on button hover.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm pretty satisfied of the result so far, visually at least, considering the fact that I started this completely new journey only in October 2017. At the moment I'm struggling with the implementation of a JavaScript functionality which should allow the user to erase the color from the grid cells just by right-clicking on it. As I'm getting gradually more confident with jQuery, I will probably use it to add the function.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Pixel Art Maker](https://codepen.io/BrandNew_12/pen/qpjZBb)
