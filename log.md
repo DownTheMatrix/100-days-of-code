@@ -11,7 +11,7 @@ I've created a button which toggle the music on/off. I styled the buttons and cr
 
 **Link to work:** [Pixel Art Maker](https://codepen.io/BrandNew_12/pen/qpjZBb)
 
-Day 1: 2018 January 5, Friday
+### Day 1: 2018 January 5, Friday
 
 **Today's Progress**: I've styled the Pixel Art Maker and I introduced some small features. In a brief: 
 - I've changed the background-color of the canvas and I've used a lighter color for the cells, with the result of having a better contrast with the background image;
