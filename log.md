@@ -20,3 +20,10 @@ I've created a button which toggle the music on/off. I styled the buttons and cr
 **Thoughts**: I want to create a function which limits the grid size so as to avoid a browser crash. I think that a conditional might serve the purpose. i plan to dive deep into the documentation once again.
 
 Link to work: [Pixel Art Maker](https://codepen.io/BrandNew_12/pen/qpjZBb)
+
+### Day 2: 2018 January 6, Saturday
+
+**Today's Progress**: I've resumed the JavaScript course on FreeCodeCamp, and I've learnt quite a few things. Now I know the difference between global and local variables, and I practiced them both in different scenarios. 
+
+**Thoughts:** I'm currently engaged on different e-learning platforms: Udacity, Udemy, FreeCodeCamp, SoloLearn and W3Schools. I plan to resume studying Python intensively as soon as I feel confident enough with JavaScript. My method is to create a small program or a document and put what I studied into practice as soon as possible. 
+
