@@ -27,3 +27,9 @@ Link to work: [Pixel Art Maker](https://codepen.io/BrandNew_12/pen/qpjZBb)
 
 **Thoughts:** I'm currently engaged on different e-learning platforms: Udacity, Udemy, FreeCodeCamp, SoloLearn and W3Schools. I plan to resume studying Python intensively as soon as I feel confident enough with JavaScript. My method is to create a small program or a document and put what I studied into practice as soon as possible. 
 
+### Day 3: 2018 January 10, Wednesday
+
+**Today's Progress**: After a brief break, I resumed diving into JavaScript. I started the online course "Watch and Code", which was recommended to me by some fellow students. The course comes revolves about the building of a real application (an interactive "To Do List"), and it comes with many practical examples. 
+
+**Thoughts:** In order to advance fast enough I'm gonna continue with the courses I'm currently following and implement what I learn asap. Next step will be the completion of a portfolio webpage, which could also prove useful in the future. 
+
