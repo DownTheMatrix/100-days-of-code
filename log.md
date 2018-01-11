@@ -33,3 +33,8 @@ Link to work: [Pixel Art Maker](https://codepen.io/BrandNew_12/pen/qpjZBb)
 
 **Thoughts:** In order to advance fast enough I'm gonna continue with the courses I'm currently following and implement what I learn asap. Next step will be the completion of a portfolio webpage, which could also prove useful in the future. 
 
+### Day 4: 2018 January 11, Thursday
+
+**Today's Progress**: I went on with the "Watch and Code" course (I'm at a 15% completion now), and I've reviewed some basic JS concepts such as function, scope atc.
+
+**Thoughts:** I will study how to make my portfolio page, using all the languages I've been studying so far.
