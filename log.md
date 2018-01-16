@@ -38,3 +38,11 @@ Link to work: [Pixel Art Maker](https://codepen.io/BrandNew_12/pen/qpjZBb)
 **Today's Progress**: I went on with the "Watch and Code" course (I'm at a 15% completion now), and I've reviewed some basic JS concepts such as function, scope atc.
 
 **Thoughts:** I will study how to make my portfolio page, using all the languages I've been studying so far.
+
+### Day 5: 2018 January 12, Friday
+
+**Today's Progress**: I took a detour from the Pixel Art Maker Project and I resumed some Front-End Development course. I created a content slider with a vertical menu and a few slides. I plan to play around with the code to add some extra functionalities.
+
+**Thoughts:** I feel that refreshing HTML, CSS and JS is mandatory at this point.
+
+Link to work: [Responsive Image Slider](https://codepen.io/BrandNew_12/pen/WdKqPw)
