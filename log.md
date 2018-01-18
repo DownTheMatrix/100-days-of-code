@@ -46,3 +46,10 @@ Link to work: [Pixel Art Maker](https://codepen.io/BrandNew_12/pen/qpjZBb)
 **Thoughts:** I feel that refreshing HTML, CSS and JS is mandatory at this point.
 
 Link to work: [Responsive Image Slider](https://codepen.io/BrandNew_12/pen/WdKqPw)
+
+### Day 6: 2018 January 13, Saturday
+
+**Today's Progress**: I started a course on Udemy about Web Development which covers basically everything. HTML5, CSS3, JavaScript, jQuery, MongoDB, YelpCamp, etc. 
+
+**Thoughts:** It feels good to refresh some basic stuff at this point. For instance, I didn't remember how to write forms for visually impaired people (<label for><input id>). I will keep on going and start some cool projects asap.
+
