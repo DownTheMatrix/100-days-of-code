@@ -53,3 +53,8 @@ Link to work: [Responsive Image Slider](https://codepen.io/BrandNew_12/pen/WdKqP
 
 **Thoughts:** It feels good to refresh some basic stuff at this point. For instance, I didn't remember how to write forms for visually impaired people (<label for><input id>). I will keep on going and start some cool projects asap.
 
+### Day 7: 2018 January 14, Sunday
+**Today's Progress**: I've deepened my knowledge about CSS selectors and pseudo-classes. I Found this [article](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) extremely useful. 
+
+**Thoughts:** I plan to create a few websites using pure CSS AND with some JS for practicing as much as possible.
+
