@@ -66,3 +66,9 @@ Today I completed the last CSS3 course I signed up for, and I'm now moving to th
 
 **Thoughts:** I plan to build a blog (landing page, navbar and menus), an interactive dictionary using Python and a responsive video gallery. 
 
+### Day 9: 2018 January 31, Wednesday
+
+**Today's Progress**: I went through 3 courses on Codeacademy, and I completed them: 1. Learn Bootstrap, 2. Learn Command Line, 3. Learn Git.
+
+**Thoughts:** Learning Bootstrap surely speeds up everything when it comes to build a website. However, at this stage I still prefer to keep on building pages from a scratch. The more the practice, the better. I save the shortcuts for later.
+
