@@ -68,7 +68,12 @@ Today I completed the last CSS3 course I signed up for, and I'm now moving to th
 
 ### Day 9: 2018 January 31, Wednesday
 
-**Today's Progress**: I went through 3 courses on Codeacademy, and I completed them: 1. Learn Bootstrap, 2. Learn Command Line, 3. Learn Git.
+**Today's Progress**: I went through 3 courses on Codeacademy, and I completed them: 1. Learn Bootstrap, 2. Learn Command Line.
 
 **Thoughts:** Learning Bootstrap surely speeds up everything when it comes to build a website. However, at this stage I still prefer to keep on building pages from a scratch. The more the practice, the better. I save the shortcuts for later.
 
+### Day 10: 2018 February 1, Tuesday
+
+**Today's Progress**: I finally startec working on my Portfolio Page, where I will make sure to use all the basic skills I've been studying so far (I will include some Bootstrap classes as well). Today I've wrote down the layout using pen&paper, and tomorrow I will start building the page section by section.
+
+**Thoughts:** I'm currently studying how to divide a website just by looking at it. <Header>, <section> (<article> and <aside>) and <footer>. I plan to become effectively capable of assessing a website structure as fast as possible. 
