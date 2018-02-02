@@ -77,3 +77,9 @@ Today I completed the last CSS3 course I signed up for, and I'm now moving to th
 **Today's Progress**: I finally startec working on my Portfolio Page, where I will make sure to use all the basic skills I've been studying so far (I will include some Bootstrap classes as well). Today I've wrote down the layout using pen&paper, and tomorrow I will start building the page section by section.
 
 **Thoughts:** I'm currently studying how to divide a website just by looking at it. <Header>, <section> (<article> and <aside>) and <footer>. I plan to become effectively capable of assessing a website structure as fast as possible. 
+  
+### Day 11: 2018 February 2, Friday
+
+**Today's Progress**: I studied the Bootstrap grid system, what it is, how it works, what are the 4 different sizes, how to nest rows.
+
+**Thoughts:** I'm about to start an Image Gallery project using Boostrap. I'm also studying the code of different successfully websites to quickly assess their structure.  
