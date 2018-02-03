@@ -83,3 +83,9 @@ Today I completed the last CSS3 course I signed up for, and I'm now moving to th
 **Today's Progress**: I studied the Bootstrap grid system, what it is, how it works, what are the 4 different sizes, how to nest rows.
 
 **Thoughts:** I'm about to start an Image Gallery project using Boostrap. I'm also studying the code of different successfully websites to quickly assess their structure.  
+
+### Day 12: 2018 February 3, Saturday
+
+**Today's Progress**: I kept on practicing with Bootstrap, and I created a couple of pages: an [Image Gallery](https://codepen.io/BrandNew_12/pen/xYZxdm) and a [Landing Page](https://codepen.io/BrandNew_12/pen/payzQy) for a fictitious company. In both projects I played around with icons and gliphycons. 
+
+**Thoughts:** I'm starting to see how it works now, all I need is just... a lot of more practice!
