@@ -89,3 +89,9 @@ Today I completed the last CSS3 course I signed up for, and I'm now moving to th
 **Today's Progress**: I kept on practicing with Bootstrap, and I created a couple of pages: an [Image Gallery](https://codepen.io/BrandNew_12/pen/xYZxdm) and a [Landing Page](https://codepen.io/BrandNew_12/pen/payzQy) for a fictitious company. In both projects I played around with icons and gliphycons. 
 
 **Thoughts:** I'm starting to see how it works now, all I need is just... a lot of more practice!
+
+### Day 13: 2018 February 4, Sunday
+
+**Today's Progress**: I spent the afternoon facing some coding challenges. I tried Codewars, Coderbyte and Hackerrank, just to get some ideas of what to expect. I must admit I found even the most basic ones kinda hard, which means that I'd better practice more and more.
+
+**Thoughts:** I'm gonna continue with the courses and, at the same time, I'm gonna build some easy applications to test my knowledge step by step. Stay tuned!
