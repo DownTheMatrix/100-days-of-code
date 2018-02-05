@@ -95,3 +95,9 @@ Today I completed the last CSS3 course I signed up for, and I'm now moving to th
 **Today's Progress**: I spent the afternoon facing some coding challenges. I tried Codewars, Coderbyte and Hackerrank, just to get some ideas of what to expect. I must admit I found even the most basic ones kinda hard, which means that I'd better practice more and more.
 
 **Thoughts:** I'm gonna continue with the courses and, at the same time, I'm gonna build some easy applications to test my knowledge step by step. Stay tuned!
+
+### Day 14: 2018 February 5, Monday
+
+**Today's Progress**: Continuining with the JS course on Udemy, now currently busy with the control flow. I solved more than 10 problem sets about while and for loops.
+
+**Thoughts:** This is getting really exciting, I'm finally starting to see where all the theory was leading!
