@@ -101,3 +101,31 @@ Today I completed the last CSS3 course I signed up for, and I'm now moving to th
 **Today's Progress**: Continuining with the JS course on Udemy, now currently busy with the control flow. I solved more than 10 problem sets about while and for loops.
 
 **Thoughts:** This is getting really exciting, I'm finally starting to see where all the theory was leading!
+
+### Day 15: 2018 February 7, Wednesday 
+
+**Today's Progress**: After one short break, I resumed facing some JavaScript problem sets. In particular, I'm studying functions and regular expressions. My goal is to try to expand the given functions and make them more "user interactive". For example, I was given this function which returns "true" if a number is even, and "false" otherwise. Here it is: 
+
+function isEven(num) {
+	if (num % 2 === 0) {
+		return true;
+	} else {
+		return false;
+	}
+}
+isEven(4);
+
+What I did was declaring a variable which stores the value input established by the user:
+
+var check = prompt(Number.num);
+function isEven(num) {
+	if (num % 2 === 0) {
+		return true;
+	} else {
+		return false;
+	}
+}
+isEven(check);
+
+**Thoughts:** I wanna practice more and more and go beyond the task expectations by making the functions user interactive/input sensitive. 
+
