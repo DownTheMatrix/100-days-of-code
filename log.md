@@ -129,3 +129,8 @@ isEven(check);
 
 **Thoughts:** I wanna practice more and more and go beyond the task expectations by making the functions user interactive/input sensitive. 
 
+### Day 16: 2018 February 8, Tuesday
+
+**Today's Progress**: Today I learnt about higher order functions and I started refreshing Arrays. I also connected my account to different platforms, incuding LinkedIn (where I also subscribed to several programming groups), Facebook, Google+, etc. I'm motivated and pretty focussed. Slowly but steady :)
+
+**Thoughts:** I should study the code of more designs and templates and try to realize some decent mock-ups. I should also study CSS Grid and flex-box.
