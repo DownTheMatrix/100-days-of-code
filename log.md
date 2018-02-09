@@ -134,3 +134,9 @@ isEven(check);
 **Today's Progress**: Today I learnt about higher order functions and I started refreshing Arrays. I also connected my account to different platforms, incuding LinkedIn (where I also subscribed to several programming groups), Facebook, Google+, etc. I'm motivated and pretty focussed. Slowly but steady :)
 
 **Thoughts:** I should study the code of more designs and templates and try to realize some decent mock-ups. I should also study CSS Grid and flex-box.
+
+### Day 16: 2018 February 9, Friday
+
+**Today's Progress**: So, back into JavaScript world. I've studied Arrays + built-in methods, practiced forEach quite a lot, solved a few problems, etc. Back-end has a grip on me, clearly.
+
+**Thoughts:** I plan to go through all my old codes and try to refactor them in a way so as to include what I've been learning so far. I think it'd be a great practice.
