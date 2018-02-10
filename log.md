@@ -140,3 +140,9 @@ isEven(check);
 **Today's Progress**: So, back into JavaScript world. I've studied Arrays + built-in methods, practiced forEach quite a lot, solved a few problems, etc. Back-end has a grip on me, clearly.
 
 **Thoughts:** I plan to go through all my old codes and try to refactor them in a way so as to include what I've been learning so far. I think it'd be a great practice.
+
+### Day 17: 2018 February 10, Saturday
+
+**Today's Progress**: I practiced Arrays by try solving some problem sets, and I reviewed my old fuctions (I checked what I needed to implement/refactor them entirely). I also started Wes Bos "JavaScript 30" online course. More projects to come!
+
+**Thoughts:** At the moment I have a few JS projects in mind: a Todo List app (nothing fancy, but I'd like to add some styling), a calculator app, a program which analyze an array and allow to manipulate its items (returning the data type, reversing the order, printing the item with the highest/lowest value, etc.).
