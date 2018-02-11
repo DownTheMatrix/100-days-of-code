@@ -146,3 +146,9 @@ isEven(check);
 **Today's Progress**: I practiced Arrays by try solving some problem sets, and I reviewed my old fuctions (I checked what I needed to implement/refactor them entirely). I also started Wes Bos "JavaScript 30" online course. More projects to come!
 
 **Thoughts:** At the moment I have a few JS projects in mind: a Todo List app (nothing fancy, but I'd like to add some styling), a calculator app, a program which analyze an array and allow to manipulate its items (returning the data type, reversing the order, printing the item with the highest/lowest value, etc.).
+
+### Day 18: 2018 February 11, Sunday
+
+**Today's Progress**: Back into Web Dev. I started two simple projects: a simple modal which shows a text-box when a button is clicked (no libraries, only Vanilla JS), and a full screen image slider (plain JS again and flexbox). 
+
+**Thoughts:** Coding along with some amazing guys on Youtube really helps. However, in order to cement the knowledge, I'd better practice more and more every day. 
