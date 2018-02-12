@@ -152,3 +152,9 @@ isEven(check);
 **Today's Progress**: Back into Web Dev. I started two simple projects: a simple modal which shows a text-box when a button is clicked (no libraries, only Vanilla JS), and a full screen image slider (plain JS again and flexbox). 
 
 **Thoughts:** Coding along with some amazing guys on Youtube really helps. However, in order to cement the knowledge, I'd better practice more and more every day. 
+
+### Day 19: 2018 February 12, Monday
+
+**Today's Progress**: I followed a video by Traversy Media (on Youtube), and I build a simple website with a parallax effect. I also added a JS function for playing a .wav file on window load. I also completed a mini course on Codeacademy about how to "animate your name". Pretty cool!
+
+**Thoughts:** I wanna research and practice more with @media queries and animations in CSS3. Overall, I feel I'm on the right track.
