@@ -161,7 +161,7 @@ isEven(check);
 
 **Thoughts:** I wanna research and practice more with @media queries and animations in CSS3. Overall, I feel I'm on the right track.
 
-### Day 20: 2018 February 13, Wednesday
+### Day 20: 2018 February 14, Wednesday
 
 **Today's Progress**: Today I started a Movie DB app which uses different functions for allowing the user to input the title, rating, duration and more of his/her favorite movies. It's a Todo list really, but it uses forEach loops (good practice for my still unrefined skills). I'm also growing the habit to refactor what I've just wrote in different ways to see if it still works. Finally, last but certainly not least, I received the notification from the Udacity team that I've been admitted to the last phase of Google Front End Development scholarship! I'm so excited about it, now it's time to get things done ;)
 
