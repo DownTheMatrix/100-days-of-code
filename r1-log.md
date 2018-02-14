@@ -1,8 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [Bruno Mazza]
+# #100DaysOfCode Log - [Bruno Mazza]
 
 The log of my #100DaysOfCode challenge. Started on [January 4, Thursday, 2018].
-
-# 100 Days Of Code - Log
 
 ### Day 0: 2018 January 4, Thursday
 
