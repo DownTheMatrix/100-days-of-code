@@ -158,3 +158,10 @@ isEven(check);
 **Today's Progress**: I followed a video by Traversy Media (on Youtube), and I build a simple website with a parallax effect. I also added a JS function for playing a .wav file on window load. I also completed a mini course on Codeacademy about how to "animate your name". Pretty cool!
 
 **Thoughts:** I wanna research and practice more with @media queries and animations in CSS3. Overall, I feel I'm on the right track.
+
+### Day 20: 2018 February 13, Wednesday
+
+**Today's Progress**: Today I started a Movie DB app which uses different functions for allowing the user to input the title, rating, duration and more of his/her favorite movies. It's a Todo list really, but it uses forEach loops (good practice for my still unrefined skills). I'm also growing the habit to refactor what I've just wrote in different ways to see if it still works. Finally, last but certainly not least, I received the notification from the Udacity team that I've been admitted to the last phase of Google Front End Development scholarship! I'm so excited about it, now it's time to get things done ;)
+
+**Thoughts:** I want to commit fully to the scholarship program, and I also want to use all my spare time to practice and keep on going with the other courses on Udemy. I'd better establish a schedule which includes other things such as sport though: my mental health first!
+
