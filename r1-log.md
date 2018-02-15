@@ -167,4 +167,9 @@ isEven(check);
 
 **Thoughts:** I want to commit fully to the scholarship program, and I also want to use all my spare time to practice and keep on going with the other courses on Udemy. I'd better establish a schedule which includes other things such as sport though: my mental health first!
 
+### Day 21: 2018 February 15, Tuesday
+
+**Today's Progress**: Yes! I've started the phase 2 of the Udacity Front End Scholarship, and I submitted my first task (an "Animal Trading Card" project). Then, I used my spare time to continue with the Colt's course. Today's topic: DOM manipulation. Finally, I threw some ideas for the Movie Database Project. 
+
+**Thoughts:** The phase 2 is a great opportunity for reviewing my CSS knowledge and learn new tricks about how to interact with the page elements. It started today and will last until the 15th of August. No excuses!
 
