@@ -173,3 +173,11 @@ isEven(check);
 
 **Thoughts:** The phase 2 is a great opportunity for reviewing my CSS knowledge and learn new tricks about how to interact with the page elements. It started today and will last until the 15th of August. No excuses!
 
+### Day 22: 2018 February 16, Friday
+
+**Today's Progress**: I went on with the course and learned about many functionalities of Chrome Dev Tools for emulating and testing a webpage on different devices. Then I worked on my Movie Database app and finally I looked at some new CSS3 properties.
+
+**Thoughts:** In order to avoid the mental institution, I'd better alternate between back-end and front-end, with the latter adding, literally, some color to my mood.
+
+
+
