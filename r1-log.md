@@ -179,5 +179,11 @@ isEven(check);
 
 **Thoughts:** In order to avoid the mental institution, I'd better alternate between back-end and front-end, with the latter adding, literally, some color to my mood.
 
+### Day 23: 2018 February 17, Saturday
+
+**Today's Progress**: I watched a couple of videos and read a few articles about media queries and how to make a webpage responsive. I heard the concept "mobile first, start small" many times already, and I plan to deepen the topic. I'm also refactoring some old codes and, finally, I started a webpage where it's possible to interact with different elements and run, via JS, a few CSS tricks (such as transformations etc.). I'ts pretty funny, and I think it's a good practice playground. 
+
+**Thoughts:** I'm gathering as much info as possible, reading as much articles as possible, and the same goes for the videos. I also bought my first e-reader ever just for the sake of studying/reading a few programming e-books I had in my laptop ("Learn python the hard way" and "JavaScript Notes for Professionals" included). 
+
 
 
