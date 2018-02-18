@@ -185,5 +185,8 @@ isEven(check);
 
 **Thoughts:** I'm gathering as much info as possible, reading as much articles as possible, and the same goes for the videos. I also bought my first e-reader ever just for the sake of studying/reading a few programming e-books I had in my laptop ("Learn python the hard way" and "JavaScript Notes for Professionals" included). 
 
+### Day 24: 2018 February 18, Sunday
 
+**Today's Progress**: I watched a tutorial about Animate.js, and I got super interested in what I could achieve with that library. I can't wait to start messing around with it! I also studied flexbox and practiced more @media queries. Finally, I took a good look at several portfolio websites of other web devs to draw some ideas for mine. Some of them look amazing, so... it's gonna be tough!
 
+**Thoughts:** I wanna practice my JS skills as much as possible, and the same goes for DOM manipulation and CSS grid system.
