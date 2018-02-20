@@ -190,3 +190,9 @@ isEven(check);
 **Today's Progress**: I watched a tutorial about Animate.js, and I got super interested in what I could achieve with that library. I can't wait to start messing around with it! I also studied flexbox and practiced more @media queries. Finally, I took a good look at several portfolio websites of other web devs to draw some ideas for mine. Some of them look amazing, so... it's gonna be tough!
 
 **Thoughts:** I wanna practice my JS skills as much as possible, and the same goes for DOM manipulation and CSS grid system.
+
+### Day 25: 2018 February 20, Tuesday
+
+**Today's Progress**: Ok, so: I have to do the mock-up of a portfolio page and I don't want to use any framework like Bootstrap. It's hard, harder than I thought. Today I've watched two more tutorials about CSS Grid and its logic. I love it, I thought I could use it right after but I was wrong. I understand how it works, but things get messed up in my mind as soon as I start adding more elements (the grid-area property, in particular, gave me a nice headache). It's a long and winding road, indeed. 
+
+**Thoughts:** Drawing sketches before even starting to code might be a good habit and I want to develop it. I must find a way to keep frustration at bay.
