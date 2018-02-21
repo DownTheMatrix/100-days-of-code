@@ -196,3 +196,9 @@ isEven(check);
 **Today's Progress**: Ok, so: I have to do the mock-up of a portfolio page and I don't want to use any framework like Bootstrap. It's hard, harder than I thought. Today I've watched two more tutorials about CSS Grid and its logic. I love it, I thought I could use it right after but I was wrong. I understand how it works, but things get messed up in my mind as soon as I start adding more elements (the grid-area property, in particular, gave me a nice headache). It's a long and winding road, indeed. 
 
 **Thoughts:** Drawing sketches before even starting to code might be a good habit and I want to develop it. I must find a way to keep frustration at bay.
+
+### Day 26: 2018 February 21, Wednesday
+
+**Today's Progress**: So, I kept on going with the scholarship and completed the section about responsiveness. Then i felt like taking a break from web dev and going back to my first passion: Python. I wrote a quick and simple program which reminds me to take a nice break every 60 minutes and which also opens a url (I used the webbrowser module) after displaying an alert box (tkinter, messagebox). I will refine the UI and explore tkinter asap.
+
+**Thoughts:** Python is really enjoyable, and I can't wait to spend more time on it. About the portfolio page, tomorrow I will test a few solutions I planned. Fingers crossed!
