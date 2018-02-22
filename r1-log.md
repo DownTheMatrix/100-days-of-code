@@ -202,3 +202,10 @@ isEven(check);
 **Today's Progress**: So, I kept on going with the scholarship and completed the section about responsiveness. Then i felt like taking a break from web dev and going back to my first passion: Python. I wrote a quick and simple program which reminds me to take a nice break every 60 minutes and which also opens a url (I used the webbrowser module) after displaying an alert box (tkinter, messagebox). I will refine the UI and explore tkinter asap.
 
 **Thoughts:** Python is really enjoyable, and I can't wait to spend more time on it. About the portfolio page, tomorrow I will test a few solutions I planned. Fingers crossed!
+
+### Day 27: 2018 February 22, Tuesday
+
+**Today's Progress**: So, I decided to build the skeleton of my portfolio page using Bootstrap for now. Later I refactor it using CSS Grid. It has a clean layout, but I plan to add modals and, possibly, a vertical sidebar with dropdowns submenus. 
+I also wrote a simple program in Python which iterates through the files in a directory and modify the file name. In order to do that, I had to dive into the documentation and study a few modules. Pretty nice stuff!
+
+**Thoughts:** I use Python 3x, and I had some errors when I tried to run my program today. After scratching my head for a while, I discovered that string translation changed from version 2, and it's now syntactically different. Python os library is pretty broad, so I'm gonna focus on the most important and useful methods. 
