@@ -209,3 +209,9 @@ isEven(check);
 I also wrote a simple program in Python which iterates through the files in a directory and modify the file name. In order to do that, I had to dive into the documentation and study a few modules. Pretty nice stuff!
 
 **Thoughts:** I use Python 3x, and I had some errors when I tried to run my program today. After scratching my head for a while, I discovered that string translation changed from version 2, and it's now syntactically different. Python os library is pretty broad, so I'm gonna focus on the most important and useful methods. 
+
+### Day 28: 2018 February 23, Friday
+
+**Today's Progress**: I researched about "how to practice effetively my CSS", and I came across the post of one guy who suggested doing some mock-ups of the website wireframes posted on sites like Dribble. I never thought about that, and I think it'd be helpful in the long run. I also went on with the JS course on Udemy, and I tried to add a few effects to my portfolio page (image overlay, fade, shine, etc.). In the end I discarded them all, as I wasn't fully satisfied. 
+
+**Thoughts:** Messing with the animations is super cool, but not useful at this stage. I'd better focus on the backbone of my webpage.
