@@ -215,3 +215,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I researched about "how to practice effetively my CSS", and I came across the post of one guy who suggested doing some mock-ups of the website wireframes posted on sites like Dribble. I never thought about that, and I think it'd be helpful in the long run. I also went on with the JS course on Udemy, and I tried to add a few effects to my portfolio page (image overlay, fade, shine, etc.). In the end I discarded them all, as I wasn't fully satisfied. 
 
 **Thoughts:** Messing with the animations is super cool, but not useful at this stage. I'd better focus on the backbone of my webpage.
+
+### Day 29: 2018 February 25, Sunday
+
+**Today's Progress**: I started a "Color Guessing Game" which allows me to put into practice all the stuff that I've been studying so far, from DOM manipulation, to events handling, to layout structuring, to basic JS logic. I plan to complete it within a couple of days.
+
+**Thoughts:** I started to make good use of the simple "alarm clock" program I wrote in Python: now, every hour, the program notifies me that it's time for a breif break (up to 5 minutes). I also want to insert a logic that, after a certain amount of time (say, 4 hours), the program alerts me that I should stop for at least 15 minutes. It would be cool if it could open a video about stretching muscles after long sessions behind the computer, or some meditation/ambient music, etc.
