@@ -221,3 +221,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I started a "Color Guessing Game" which allows me to put into practice all the stuff that I've been studying so far, from DOM manipulation, to events handling, to layout structuring, to basic JS logic. I plan to complete it within a couple of days.
 
 **Thoughts:** I started to make good use of the simple "alarm clock" program I wrote in Python: now, every hour, the program notifies me that it's time for a breif break (up to 5 minutes). I also want to insert a logic that, after a certain amount of time (say, 4 hours), the program alerts me that I should stop for at least 15 minutes. It would be cool if it could open a video about stretching muscles after long sessions behind the computer, or some meditation/ambient music, etc.
+
+### Day 30: 2018 February 26, Monday
+
+**Today's Progress**: I enrolled in the Wes Bos "CSS Grid" course as I decided it just makes too much sense to favor other frameworks. I will refactor the portfolio page using it, no shortcuts, no regrets. Amen. I also resumed the course on DataQuest, and I confirmed my interest for data structures and lists manipulation. 
+
+**Thoughts:** Ok, the new schedule is as follows: 3 hours in the morning for the Front-End, 2 hours in the afternoon for the Back-End (databases, Python, etc.). In the spare time, some related book I downloaded in my e-reader. I'm curious to see if this new strategy works better.
