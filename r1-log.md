@@ -227,3 +227,10 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I enrolled in the Wes Bos "CSS Grid" course as I decided it just makes too much sense to favor other frameworks. I will refactor the portfolio page using it, no shortcuts, no regrets. Amen. I also resumed the course on DataQuest, and I confirmed my interest for data structures and lists manipulation. 
 
 **Thoughts:** Ok, the new schedule is as follows: 3 hours in the morning for the Front-End, 2 hours in the afternoon for the Back-End (databases, Python, etc.). In the spare time, some related book I downloaded in my e-reader. I'm curious to see if this new strategy works better.
+
+### Day 31: 2018 February 27, Tuesday
+
+**Today's Progress**: I kept on going with Grid and watched 3 tutorials. Then I discovered Rachel Andrew's "Grid By Example" and I played around with the layouts. It's still rusty, but it's sinking in. Slowly but steady.
+
+**Thoughts:** grid-template-areas is the key for quick designs, but it's gonna take a while to sink in. I hope I can find more online playgrounds to practice it!
+
