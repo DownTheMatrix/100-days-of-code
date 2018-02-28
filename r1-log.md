@@ -234,3 +234,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 
 **Thoughts:** grid-template-areas is the key for quick designs, but it's gonna take a while to sink in. I hope I can find more online playgrounds to practice it!
 
+### Day 32: 2018 February 28, Wednesday
+
+**Today's Progress**: More tuts about Grid, one simple "RGB Color Game" completed and several headaches. 
+
+**Thoughts:** I read an article about JS design patterns, i.e.: the way to write JS code more efficiently. It's a brand new world really, I will keep it in mind but I'd better move on for now. 
+
