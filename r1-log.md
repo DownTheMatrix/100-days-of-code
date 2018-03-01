@@ -240,3 +240,8 @@ I also wrote a simple program in Python which iterates through the files in a di
 
 **Thoughts:** I read an article about JS design patterns, i.e.: the way to write JS code more efficiently. It's a brand new world really, I will keep it in mind but I'd better move on for now. 
 
+### Day 33: 2018 February 29, Thursday
+
+**Today's Progress**: I started a course on Udacity about how to make the images responsive on any kind of device. After each lesson I practiced the new properties I came across with (i.e.: 'srcset', 'sizes', relative measuring units like vw, etc.). In the afternoon I resumed a course on Dataquest about Python and I practiced a lot. In particular, I learned how to iterate through the elements inside nested lists and how to manipulate them using the 'split()' method. Cool!
+
+**Thoughts:** I like this new habit of splitting the day in two halves: morning dedicated to Front-End, and afternoon/late evening to Python and Back-End stuff. Side note: I plan to start learning mySQL asap!
