@@ -252,3 +252,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 
 **Thoughts:** My laptop had some issues and I needed to transfer the data to another one. I carried on despite the hassle, and that's nice.
 
+### Day 35: 2018 March 5, Monday
+
+**Today's Progress**: I started studying, practicing (and appreciating) the new featured brought into JavaScript by ES6. I wrote several functions using pre and post-ES6 methods. For instance, if I had to calculate the average (mean) of the numbers in an array, I wrote a function which used a standard for loop first, and then the same one using a for...of loop and a rest parameter.
+
+**Thoughts:** I scratched my head as my function kept on returning NaN when no parameter was passed into it (i.e.: `average()`). I solved the puzzle after researching for a while. In the end I used the `parseFloat()` function and `toFixed()`, and it worked!
+
