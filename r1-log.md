@@ -258,3 +258,10 @@ I also wrote a simple program in Python which iterates through the files in a di
 
 **Thoughts:** I scratched my head as my function kept on returning NaN when no parameter was passed into it (i.e.: `average()`). I solved the puzzle after researching for a while. In the end I used the `parseFloat()` function and `toFixed()`, and it worked!
 
+### Day 36: 2018 March 6, Tuesday
+
+**Today's Progress**: I built the structure for a Memory Game ("Concentration") using CSS Grid. I will start adding the logic after planning all the necessary steps. 
+
+**Thoughts:** Grid is really nice. I need way more practice when it comes to align the content inside of the containers though. 
+
+
