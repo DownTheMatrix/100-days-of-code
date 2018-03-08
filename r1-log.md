@@ -264,4 +264,10 @@ I also wrote a simple program in Python which iterates through the files in a di
 
 **Thoughts:** Grid is really nice. I need way more practice when it comes to align the content inside of the containers though. 
 
+### Day 37-38: 2018 March 7-8, Wednesday-Thursday
+
+**Today's Progress**: I'm updating my log for two days as I had some connection issues yesterday. That didn't stop me from practicing though! So, I added the logic for my Memory Game project, and I implemented a few features, like a modal that is displayed upon the game completion, a restart command for refreshing the game (and shuffling the cards again), a background music on window load, etc. What I'm trying to achieve now is to keep track of the number of moves according to the number of clicks. Then I need to make sure that this is stored somewhere as it should affect the final score. Not as easy as it sounds!
+
+**Thoughts:** This project is really cool and I'm enjoying squeezing my brain over it. Once completed I will definitely write more simple games like that. 
+
 
