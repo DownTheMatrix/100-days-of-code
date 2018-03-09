@@ -270,4 +270,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 
 **Thoughts:** This project is really cool and I'm enjoying squeezing my brain over it. Once completed I will definitely write more simple games like that. 
 
+### Day 39: 2018 March 9, Friday
+
+**Today's Progress**: I installed Git Bash and I practiced the basics of Version Control. I also learned the basic, most used Shell commands. Finally, I watched a tut of TraversyMedia about how to create a Bookmarker app with JS. Cool!
+
+**Thoughts:** Things are getting exciting. The puzzle is taking shape, gradually, everyday. My mind is becoming more and more flexible when it comes to understand new concepts. Time to get things done!
 
