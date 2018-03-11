@@ -276,3 +276,8 @@ I also wrote a simple program in Python which iterates through the files in a di
 
 **Thoughts:** Things are getting exciting. The puzzle is taking shape, gradually, everyday. My mind is becoming more and more flexible when it comes to understand new concepts. Time to get things done!
 
+### Day 40: 2018 March 11, Sunday
+
+**Today's Progress**: I kept studying and researching about the DOM. I learned about new event handlers, the phases of the events and about the difference between the different methods applicable. I finally feel like I'm getting a grasp on this stuff!
+
+**Thoughts:** I decided to refactor the code for the Memory Game app in order to put into practice the new knowledges. In particular, I want to build the HTML necessary using Vanilla JS. I'm not in a rush, but I wanna deliver a fine project this time.
