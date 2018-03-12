@@ -281,3 +281,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I kept studying and researching about the DOM. I learned about new event handlers, the phases of the events and about the difference between the different methods applicable. I finally feel like I'm getting a grasp on this stuff!
 
 **Thoughts:** I decided to refactor the code for the Memory Game app in order to put into practice the new knowledges. In particular, I want to build the HTML necessary using Vanilla JS. I'm not in a rush, but I wanna deliver a fine project this time.
+
+### Day 41: 2018 March 12, Monday
+
+**Today's Progress**: I went on with the Memory Game project and planned a couple of alternatives to the my old code. I also practiced some new methods for the DOM interaction. Finally, I started refactoring (for real) my portfolio page.
+
+**Thoughts:** I should take a break from the courses and dedicate a few hours to practice only. So much info, so much theory. It's due, but clearly not enough. 
