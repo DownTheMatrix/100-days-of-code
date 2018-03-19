@@ -293,3 +293,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I completed a To-Do list project (I know, I know) and I learned a lot of stuff about new  ECMAscript Edition 6 features, such as Arrow Functions, etc. I also resumed the Wes Bos JavaScript30 course and I customized his DrumKit project by using CSS Grid and adding a few animations.
 
 **Thoughts:** I plan to expand current projects and to practice Grid more and more. Switching from jQuery to plain JS and back is painful, but it's getting more and more tolerable every day.
+
+### Day 43: 2018 March 19, Monday
+
+**Today's Progress**: After 3 days of stop I resumed the journey where I left it: the Memory Game to deliver within next week. I modified a few things and discarded the rest. I added some styling and effects. Then, I studied the documentation of NumPy and practiced for one hour.
+
+**Thoughts:** I plan to complete the project in the next days and then continuing with the lessons. I also intend to dedicate at least a couple of hours per day to Python libraries for Data Science.
