@@ -299,3 +299,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: After 3 days of stop I resumed the journey where I left it: the Memory Game to deliver within next week. I modified a few things and discarded the rest. I added some styling and effects. Then, I studied the documentation of NumPy and practiced for one hour.
 
 **Thoughts:** I plan to complete the project in the next days and then continuing with the lessons. I also intend to dedicate at least a couple of hours per day to Python libraries for Data Science.
+
+### Day 44: 2018 March 20, Tuesday
+
+**Today's Progress**: I started a great tutorial on how to properly use GitHub, and I realized how wrong I've been doing it for all this time. Time to amend then. I completed a PataTaP Clone project (with paper.js and howler.js) and I learned how to test a website locally so as to avoid CORS issues. In order to achieve this, I researched a lot and I finally managed to configure the IIS on my computer and add/bind the site correctly. It took me a while but I'm happy with the results.
+
+**Thoughts:** I plan to modify the PataTap Clone project in order to make the code more efficient, and I also want to add different animations and shapes. The main focus shall be on the Memory Game project though. 
