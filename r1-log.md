@@ -305,3 +305,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I started a great tutorial on how to properly use GitHub, and I realized how wrong I've been doing it for all this time. Time to amend then. I completed a PataTaP Clone project (with paper.js and howler.js) and I learned how to test a website locally so as to avoid CORS issues. In order to achieve this, I researched a lot and I finally managed to configure the IIS on my computer and add/bind the site correctly. It took me a while but I'm happy with the results.
 
 **Thoughts:** I plan to modify the PataTap Clone project in order to make the code more efficient, and I also want to add different animations and shapes. The main focus shall be on the Memory Game project though. 
+
+### Day 45: 2018 March 21, Wednesday
+
+**Today's Progress**: I implemented a modal for my PataTap Clone project, as well as an animation. Then, I rewrote the code for the Memory Game project using jQuery.
+
+**Thoughts:** I realized, thanks to a fellow student feedback, that in my code there were parts of code written with both Vanilla JS and jQuery. This resulted in a confusing and not acceptably readable code. From now on I'd better to stick to one style instead of mixing both native and frameworks.
