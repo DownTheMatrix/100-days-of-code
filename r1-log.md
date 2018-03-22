@@ -311,3 +311,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I implemented a modal for my PataTap Clone project, as well as an animation. Then, I rewrote the code for the Memory Game project using jQuery.
 
 **Thoughts:** I realized, thanks to a fellow student feedback, that in my code there were parts of code written with both Vanilla JS and jQuery. This resulted in a confusing and not acceptably readable code. From now on I'd better to stick to one style instead of mixing both native and frameworks.
+
+### Day 46: 2018 March 22, Thursday
+
+**Today's Progress**: I learned about how to undo changes and merge confilcts with Git. Then I implemented a count-up timer on document ready for my Memory Game project, using the following syntax: `document.addEventListener('DOMContentLoaded', function() {startTimer()};` and I finally solved my first two challenges on HackerRank.
+
+**Thoughts:** If I want to deliver the project within the next few days, I should speed everything up. In particular, I should test the app on different devices and add media queries where needed.
