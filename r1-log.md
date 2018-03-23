@@ -317,3 +317,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I learned about how to undo changes and merge confilcts with Git. Then I implemented a count-up timer on document ready for my Memory Game project, using the following syntax: `document.addEventListener('DOMContentLoaded', function() {startTimer()};` and I finally solved my first two challenges on HackerRank.
 
 **Thoughts:** If I want to deliver the project within the next few days, I should speed everything up. In particular, I should test the app on different devices and add media queries where needed.
+
+### Day 47: 2018 March 23, Friday
+
+**Today's Progress**: I practiced JS arrow functions and other ES6 new features. Then I started a course about SQL and Databases. I've been wanting to do that for a while, and I'm happy I've finally did.
+
+**Thoughts:** I plan to resume working on the Memory Game app, and keep on going with courses I've been following.
