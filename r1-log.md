@@ -323,3 +323,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I practiced JS arrow functions and other ES6 new features. Then I started a course about SQL and Databases. I've been wanting to do that for a while, and I'm happy I've finally did.
 
 **Thoughts:** I plan to resume working on the Memory Game app, and keep on going with courses I've been following.
+
+### Day 48: 2018 March 23, Friday
+
+**Today's Progress**: I added two main functionality to the Memory Game: the count-up timer now counts seconds and minutes, and it's reset when the game is won. Furthermore, all the game stats (time and number of moves) are summed up in the modal which pops up upon game completion. Finally, I kept on going with the SQL course on Codecademy. 
+
+**Thoughts:** This project is giving me a hard time, sign that my JS skills are still far from being good. I'm going to practice them and solve more challenges on the web. 
