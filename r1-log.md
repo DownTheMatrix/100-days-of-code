@@ -324,8 +324,14 @@ I also wrote a simple program in Python which iterates through the files in a di
 
 **Thoughts:** I plan to resume working on the Memory Game app, and keep on going with courses I've been following.
 
-### Day 48: 2018 March 23, Friday
+### Day 48: 2018 March 24, Saturday
 
 **Today's Progress**: I added two main functionality to the Memory Game: the count-up timer now counts seconds and minutes, and it's reset when the game is won. Furthermore, all the game stats (time and number of moves) are summed up in the modal which pops up upon game completion. Finally, I kept on going with the SQL course on Codecademy. 
 
 **Thoughts:** This project is giving me a hard time, sign that my JS skills are still far from being good. I'm going to practice them and solve more challenges on the web. 
+
+### Day 49: 2018 March 25, Sunday
+
+**Today's Progress**: I fixed an issue with the Memory Game project and added the correct animation when two cards match together. I also rewrote a function and got rid of the deprecated inline `onclick=function()`. Then I went on with my Python course on DataCamp, and I completed the first track (lists, numPy, built-in methods). Finally, I completed the SQL course on Codeacademy.
+
+**Thoughts:** Working with different type of data is getting more and more clear everyday. I'm also faster than I was when it comes to detect an issue and, possibly, fix it in JS. Time for more challenges!
