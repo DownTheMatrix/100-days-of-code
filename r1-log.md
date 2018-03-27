@@ -335,3 +335,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I fixed an issue with the Memory Game project and added the correct animation when two cards match together. I also rewrote a function and got rid of the deprecated inline `onclick=function()`. Then I went on with my Python course on DataCamp, and I completed the first track (lists, numPy, built-in methods). Finally, I completed the SQL course on Codeacademy.
 
 **Thoughts:** Working with different type of data is getting more and more clear everyday. I'm also faster than I was when it comes to detect an issue and, possibly, fix it in JS. Time for more challenges!
+
+### Day 50: 2018 March 27, Tuesday
+
+**Today's Progress**: I started the course "SQL for Data Science" on DataCamp. I like it, it's so intuitive compared to the languages I've been studying so far. I also went on with the "Descriptive Statistics" course on Udacity, and I practiced my first dataset ever using matplotlib and numpy. Really interesting stuff.
+
+**Thoughts:** Tomorrow I'm going to complete the Memory Game project and deliver it. Then I will proceed with the next section in the Udacity Front-End Nanodegree, which is about code optimization.
