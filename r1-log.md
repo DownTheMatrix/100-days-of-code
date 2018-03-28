@@ -341,3 +341,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I started the course "SQL for Data Science" on DataCamp. I like it, it's so intuitive compared to the languages I've been studying so far. I also went on with the "Descriptive Statistics" course on Udacity, and I practiced my first dataset ever using matplotlib and numpy. Really interesting stuff.
 
 **Thoughts:** Tomorrow I'm going to complete the Memory Game project and deliver it. Then I will proceed with the next section in the Udacity Front-End Nanodegree, which is about code optimization.
+
+### Day 51: 2018 March 28, Wedsnesday
+
+**Today's Progress**: I refactored the Memory Game a little bit, and I watched a tutorial about HTML5 Canvas (it's gonna be useful for the next FEND project). Then, I went on with the SQL course.
+
+**Thoughts:** I delivered the Memory Game app but it didn't pass. I felt frustrated, but it didn't last. After a while I went through the review and I discovered how true and agreeable the reasons were. To put it simply: my code is not readable and consistent enough. In theory I know how to use objects and ECMA6 practices, but I seldom use them. The same goes for many other good shortcuts I could take and that I don't for lack of self-confidence, or laziness, or both. That being said, I'm gonna work harder and I'm gonna check, this time thoroughly, what I write. Taking into accounts everything (a11y issues, responsiveness, etc.) is probably a lot for me at this early stage, but I'm gonna do my best. Finally, I want to start a blog and share the hurdles and the satisfactions of this incredible journey. 
