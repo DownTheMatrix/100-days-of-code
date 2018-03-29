@@ -347,3 +347,9 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I refactored the Memory Game a little bit, and I watched a tutorial about HTML5 Canvas (it's gonna be useful for the next FEND project). Then, I went on with the SQL course.
 
 **Thoughts:** I delivered the Memory Game app but it didn't pass. I felt frustrated, but it didn't last. After a while I went through the review and I discovered how true and agreeable the reasons were. To put it simply: my code is not readable and consistent enough. In theory I know how to use objects and ECMA6 practices, but I seldom use them. The same goes for many other good shortcuts I could take and that I don't for lack of self-confidence, or laziness, or both. That being said, I'm gonna work harder and I'm gonna check, this time thoroughly, what I write. Taking into accounts everything (a11y issues, responsiveness, etc.) is probably a lot for me at this early stage, but I'm gonna do my best. Finally, I want to start a blog and share the hurdles and the satisfactions of this incredible journey. 
+
+### Day 52: 2018 March 29, Tuesday
+
+**Today's Progress**: I rewrote parts of the code (created objets and optimized the readability) and delivered the Memory Game app. Then I went on with the SQL course. Finally, I watched a tutorial about OOP.
+
+**Thoughts:** More and more practice, there's no other way. May the Force be with me. 
