@@ -353,3 +353,10 @@ I also wrote a simple program in Python which iterates through the files in a di
 **Today's Progress**: I rewrote parts of the code (created objets and optimized the readability) and delivered the Memory Game app. Then I went on with the SQL course. Finally, I watched a tutorial about OOP.
 
 **Thoughts:** More and more practice, there's no other way. May the Force be with me. 
+
+### Day 53: 2018 March 30, Friday
+
+**Today's Progress**: I refactored the Memory Game app code (still one bug with the clicking function to fix, but I'm on it). Then I practiced JS and finally I completed the SQL course on DataCamp.
+
+**Thoughts:** My mind is starting to process all the new information in a quick and less painful fashion. I'm ready to take it to the next level by dive into ES6, SQL intermediate and backend best practices. Anyway, I plan to refresh the new concepts often and to practice a lot.		
+
