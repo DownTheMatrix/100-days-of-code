@@ -360,3 +360,17 @@ I also wrote a simple program in Python which iterates through the files in a di
 
 **Thoughts:** My mind is starting to process all the new information in a quick and less painful fashion. I'm ready to take it to the next level by dive into ES6, SQL intermediate and backend best practices. Anyway, I plan to refresh the new concepts often and to practice a lot.		
 
+### Day 54: 2018 March 31, Saturday
+
+**Today's Progress**: I studied the "array iterator methods" in JS. I went through the most common methods, specifically: 
++ .forEach()
++ .map()
++ .filter()
++ .reduce()
++ .some()
++ .every()
++ .find()
++ .findIndex()
+Then I practiced them and wrote down a few examples for each of them. 
+
+**Thoughts:** I would need to write an app which makes use of those methods, in order to see them playing an active role in a real world application. 
