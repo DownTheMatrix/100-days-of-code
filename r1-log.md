@@ -380,3 +380,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I spent the last 3 days studying the best accessibility practices, from better contrast ratios, to use Wai-Arias to make custom elements accessible to different kind of users, to finally take advantage of the Audit mode in the Dev Tools to run accessibility tests on my webpages.
 
 **Thoughts:** Making a website is complex enough, and now that I looked at how to make a webpage fully accessible, it's even worse! I really need a lot of experience to digest these new possibilities. That being said, I completely agree with the philosophy behind the need for responsive, accessible web apps. 
+
+### Day 56: 2018 April 05, Tuesday
+
+**Today's Progress**: I almost completed the Udacity course section about OOP with JavaScript, pretty interesting. Then I build a simple template using CSS Grid and Flexbox.
+
+**Thoughts:** The next project is approaching, I need to finish the section real quick!
