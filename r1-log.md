@@ -386,3 +386,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I almost completed the Udacity course section about OOP with JavaScript, pretty interesting. Then I build a simple template using CSS Grid and Flexbox.
 
 **Thoughts:** The next project is approaching, I need to finish the section real quick!
+
+### Day 57: 2018 April 07, Saturday
+
+**Today's Progress**: So, I spent the whole morning learning about how to create Lambda Functions for Amazon Alexa, and I managed to build a model with an intent and a slot. I loved that, that's really interesting and I will defintelly deepen it. Then, I studied Closures in JS.
+
+**Thoughts:** Today I needed a break from my usual studying routine, and I decided to try out Alexa's skills. That was my first attempt, but I have to say that it was pretty intuitive. I should probably refresh my JSON though.
