@@ -392,3 +392,10 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: So, I spent the whole morning learning about how to create Lambda Functions for Amazon Alexa, and I managed to build a model with an intent and a slot. I loved that, that's really interesting and I will defintelly deepen it. Then, I studied Closures in JS.
 
 **Thoughts:** Today I needed a break from my usual studying routine, and I decided to try out Alexa's skills. That was my first attempt, but I have to say that it was pretty intuitive. I should probably refresh my JSON though.
+
+
+### Day 58: 2018 April 08, Sunday
+
+**Today's Progress**: I studied closures and IIFE in JavaScript, and I actually understood what they do and when it's better to use them, many thanks to the Udacity course and Douglas Crockford's lecture! Then I resumed my journey through FreeCodeCamp challenges.
+
+**Thoughts:** I'm feeling more confident when it comes too understand things at a conceptual level. More practice is due though.
