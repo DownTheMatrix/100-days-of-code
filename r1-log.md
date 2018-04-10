@@ -399,3 +399,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I studied closures and IIFE in JavaScript, and I actually understood what they do and when it's better to use them, many thanks to the Udacity course and Douglas Crockford's lecture! Then I resumed my journey through FreeCodeCamp challenges.
 
 **Thoughts:** I'm feeling more confident when it comes too understand things at a conceptual level. More practice is due though.
+
+### Day 59, 60: 2018 April 09, April 10 Monday, Tuesday
+
+**Today's Progress**: In the past two days I studied new JS methods: `.call()`, `.apply()`, `.bind()`. I worked my way to comprehension through some practical examples and exercises. Then I build the layout of two different websites using CSS Grid and Flexbox only (no frameworks).
+
+**Thoughts:** I'm curious and excited about how to implement these new concepts into real apps!
