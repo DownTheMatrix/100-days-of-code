@@ -405,3 +405,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: In the past two days I studied new JS methods: `.call()`, `.apply()`, `.bind()`. I worked my way to comprehension through some practical examples and exercises. Then I build the layout of two different websites using CSS Grid and Flexbox only (no frameworks).
 
 **Thoughts:** I'm curious and excited about how to implement these new concepts into real apps!
+
+### Day 61: 2018 April 12 Tuesday
+
+**Today's Progress**: Arrow functions, default parameters, destructuring, and other ES6 newly-introduced features. 
+
+**Thoughts:** I resumed the track on FreeCodeCamp, almost done with the JS section. Next one: algorithms! 
