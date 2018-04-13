@@ -411,3 +411,10 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: Arrow functions, default parameters, destructuring, and other ES6 newly-introduced features. 
 
 **Thoughts:** I resumed the track on FreeCodeCamp, almost done with the JS section. Next one: algorithms! 
+
+### Day 62: 2018 April 13 Friday
+
+**Today's Progress**: More about classes and sub-classes in JS (ES6). Then I completed all the basic SQL challenges on Hackerrank.
+
+**Thoughts:** Classes in JS require more practice as they're not immediately intuitive. I'm on it though, so no worries.
+
