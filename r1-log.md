@@ -418,3 +418,8 @@ Then I practiced them and wrote down a few examples for each of them.
 
 **Thoughts:** Classes in JS require more practice as they're not immediately intuitive. I'm on it though, so no worries.
 
+### Day 63: 2018 April 14 Saturday
+
+**Today's Progress**: Again on classes, constructors, getters, setters and static methods. I'm learning a ton about this important part of the JavaScript language. Next stop: symbols. Oh, and I installed Babel and run my very first transpilation ever, "translating" a js from ES6 to ES5 syntax.
+
+**Thoughts:** I can't wait to put all of this into a full-fledged application!
