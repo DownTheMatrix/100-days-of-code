@@ -429,3 +429,10 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: Symbols, Sets, WeakSets, Maps, WeakMaps. It's gonna take some time to let these new concepts to sink in.
 
 **Thoughts:** The next project for the Udacity Nanodegree is approaching: a Classic Arcade Game ("Frog") Clone. Skills to possess: HTML5 Canvas, JS OOP knowledge, and more.
+
+### Day 65: 2018 April 7 Tuesday
+
+**Today's Progress**: ES6 again. Today I've met Promises, Generators and Polyfills. I find Generators slightly more understandable compared to the other concepts, but it will take some time to let everything sink in.
+
+**Thoughts:** I'm one lesson before the next scholarship project. I'm very curious about how to implement all the things I've been learning.
+
