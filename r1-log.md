@@ -436,3 +436,9 @@ Then I practiced them and wrote down a few examples for each of them.
 
 **Thoughts:** I'm one lesson before the next scholarship project. I'm very curious about how to implement all the things I've been learning.
 
+### Day 66: 2018 April 30 Monday
+
+**Today's Progress**: I started working on my next project for the FEND scholarship program. I'm supposed to rely on OOP features to build the core game functionalities.
+
+**Thoughts:** First of all, I'm going to write down a list of classes and objects I need for the game. The most intuitive ones are the player and the enemies classes. Then, I will instantiate them and use inheritance to pass the properties to similar classes.
+
