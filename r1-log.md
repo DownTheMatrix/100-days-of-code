@@ -442,3 +442,9 @@ Then I practiced them and wrote down a few examples for each of them.
 
 **Thoughts:** First of all, I'm going to write down a list of classes and objects I need for the game. The most intuitive ones are the player and the enemies classes. Then, I will instantiate them and use inheritance to pass the properties to similar classes.
 
+### Day 67: 2018 May 1st Tuesday
+
+**Today's Progress**: I implemented the basic functionalities for the game (such as player movements), and I studied a few concepts that might be useful later. In particular, I followed a tutorial about how to use spatial partitioning to improve collision detection performance for 2D games.
+
+**Thoughts:** It's a brand new world. Tough, but I'm enjoying learning about it!
+
