@@ -448,3 +448,10 @@ Then I practiced them and wrote down a few examples for each of them.
 
 **Thoughts:** It's a brand new world. Tough, but I'm enjoying learning about it!
 
+### Day 68-69: 2018 May 3rd, 4th
+
+**Today's Progress**: I finally delivered my Frogger-style game for the FEND program! I plan to refactor the code and amply its possibilities and functionalities as soon as I learn new things. I'm very happy with how it's going!
+
+**Thoughts:** OOP is great, but I think that functional programming works better in the long run. At least, that's what I got after watching a few videos. 
+
+
