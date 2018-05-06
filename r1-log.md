@@ -454,4 +454,8 @@ Then I practiced them and wrote down a few examples for each of them.
 
 **Thoughts:** OOP is great, but I think that functional programming works better in the long run. At least, that's what I got after watching a few videos. 
 
+### Day 70-71: 2018 May 5th, 6th
 
+**Today's Progress**: I met Gulp and started diving into best practices and tasks automation. It's a really interesting addition.
+
+**Thoughts:** I plan to reorganize my old projects bringing onto the table the new concepts I've learned so far.
