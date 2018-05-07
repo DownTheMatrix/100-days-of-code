@@ -459,3 +459,10 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I met Gulp and started diving into best practices and tasks automation. It's a really interesting addition.
 
 **Thoughts:** I plan to reorganize my old projects bringing onto the table the new concepts I've learned so far.
+
+### Day 72: 2018 May 7th
+
+**Today's Progress**: New project, new challenge. I must compile a feed reader testing app. To do that, I must get familiar with the Jasmine framework for live testing, and create a few test expectations. In order for the project to succeed, all the tests must pass.
+
+**Thoughts:** Differently from the previous projects, this is completely new to me. I guess i'd need some time to let it sink in.
+
