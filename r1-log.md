@@ -466,3 +466,9 @@ Then I practiced them and wrote down a few examples for each of them.
 
 **Thoughts:** Differently from the previous projects, this is completely new to me. I guess i'd need some time to let it sink in.
 
+### Day 73: 2018 May 8th
+
+**Today's Progress**: I experimented with Jasmine live-testing and I wrote my first specs.
+
+**Thoughts:** In order to deliver the project successfully, I must spend more time on practicing.
+
