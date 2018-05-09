@@ -472,3 +472,9 @@ Then I practiced them and wrote down a few examples for each of them.
 
 **Thoughts:** In order to deliver the project successfully, I must spend more time on practicing.
 
+### Day 74: 2018 May 9th
+
+**Today's Progress**: I completed the first test of my Feed Reader Testing application.
+
+**Thoughts:** It's kinda tough as I'm not familiar with the syntax (yet). However, I plan to follow multiple tutorials to help me with that.
+
