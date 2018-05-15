@@ -478,3 +478,8 @@ Then I practiced them and wrote down a few examples for each of them.
 
 **Thoughts:** It's kinda tough as I'm not familiar with the syntax (yet). However, I plan to follow multiple tutorials to help me with that.
 
+### Day 75: 2018 May 15th
+
+**Today's Progress**: I wrote the first 3 suites with Jasmine for my app. Then I deepened a little bit my understanding of closures in JavaScript.
+
+**Thoughts:** Testing is clearly an interesting skill to have in one's toolset. I will spend more time on this.
