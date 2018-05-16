@@ -483,3 +483,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I wrote the first 3 suites with Jasmine for my app. Then I deepened a little bit my understanding of closures in JavaScript.
 
 **Thoughts:** Testing is clearly an interesting skill to have in one's toolset. I will spend more time on this.
+
+### Day 76: 2018 May 16th
+
+**Today's Progress**: I completed a course about how to program a simple tennis game, and I made some modifications to it, adding more functionalities. Then I solved 2 algorithms on FreeCodeCamp.
+
+**Thoughts:** The algorithms are quite challenging, but I enjoy the process as they force me to dive deep into the relevant documentation(s) in order to solve them.
