@@ -489,3 +489,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I completed a course about how to program a simple tennis game, and I made some modifications to it, adding more functionalities. Then I solved 2 algorithms on FreeCodeCamp.
 
 **Thoughts:** The algorithms are quite challenging, but I enjoy the process as they force me to dive deep into the relevant documentation(s) in order to solve them.
+
+### Day 77: 2018 May 17th
+
+**Today's Progress**: I submitted the Feed Reader App and I learned how to dynamically create DOM elements using JavaScript and CSS Grid. Then I solved one algorithm challenge on FreeCodeCamp.
+
+**Thoughts:** I plan to create my own Bookmarking app using the techniques I've learned so far.
