@@ -495,3 +495,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I submitted the Feed Reader App and I learned how to dynamically create DOM elements using JavaScript and CSS Grid. Then I solved one algorithm challenge on FreeCodeCamp.
 
 **Thoughts:** I plan to create my own Bookmarking app using the techniques I've learned so far.
+
+### Day 78: 2018 May 18th
+
+**Today's Progress**: I refactored the code for the Testing App, and I started diving into the back-end world. I'm gonna use Cloud9 as an IDE for developing my first Express App. I'm very excited about it!
+
+**Thoughts:** I plan to study new topics while I keep on going with the course, and I want to commit to solving at leat one algorithm challenge per day from now on.
