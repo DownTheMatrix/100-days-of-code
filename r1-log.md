@@ -501,3 +501,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I refactored the code for the Testing App, and I started diving into the back-end world. I'm gonna use Cloud9 as an IDE for developing my first Express App. I'm very excited about it!
 
 **Thoughts:** I plan to study new topics while I keep on going with the course, and I want to commit to solving at leat one algorithm challenge per day from now on.
+
+### Day 79: 2018 May 20th
+
+**Today's Progress**: I went on with the Udacity course and I'm now tackling best practices on how to organize the code. I came across for the 1st time with the distinction between View and Model, and how to separate them. Then I started a website bookmarker app using Vanilla JS.
+
+**Thoughts:** It's interesting how planning the code ahead makes things faster and easier at a later stage. I should go through my old repos and reorganize them.
