@@ -507,3 +507,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I went on with the Udacity course and I'm now tackling best practices on how to organize the code. I came across for the 1st time with the distinction between View and Model, and how to separate them. Then I started a website bookmarker app using Vanilla JS.
 
 **Thoughts:** It's interesting how planning the code ahead makes things faster and easier at a later stage. I should go through my old repos and reorganize them.
+
+### Day 80: 2018 May 21st
+
+**Today's Progress**: I completed the initial stage of my Bookmarker App, which I plan to expand so as to include several new features. I also want to change the style and test different solutions.
+
+**Thoughts:** Thanks to the tutorial I followed on Youtube, I got to know localStorage (and JSON), and how to use it properly to build a simple app. It's an interesting topic. 
