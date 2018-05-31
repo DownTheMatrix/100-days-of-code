@@ -513,3 +513,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I completed the initial stage of my Bookmarker App, which I plan to expand so as to include several new features. I also want to change the style and test different solutions.
 
 **Thoughts:** Thanks to the tutorial I followed on Youtube, I got to know localStorage (and JSON), and how to use it properly to build a simple app. It's an interesting topic. 
+
+### Day 81: 2018 May 31st
+
+**Today's Progress**: I've started reading "Eloquent JavaScript", and I intend to complete all the exercises present in the book. I also kept on going with Promises in JS, and I learned how to chain them.
+
+**Thoughts:** I plan to resume studying intensively, committing every day for at least 6 hours per day.
