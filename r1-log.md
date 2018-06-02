@@ -519,3 +519,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I've started reading "Eloquent JavaScript", and I intend to complete all the exercises present in the book. I also kept on going with Promises in JS, and I learned how to chain them.
 
 **Thoughts:** I plan to resume studying intensively, committing every day for at least 6 hours per day.
+
+### Day 82-83: 2018 June 1st, 2nd
+
+**Today's Progress**: The last two days were dedicated to study "Eloquent JavaScript" in depth while solving the exercises. I also started working on an app which retrieves information from different sources using APIs, and returns them to the user through a GUI.
+
+**Thoughts:** From now on asynch requests, JSON methods and certificates shall become my bread and butter.
