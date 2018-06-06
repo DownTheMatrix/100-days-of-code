@@ -525,3 +525,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: The last two days were dedicated to study "Eloquent JavaScript" in depth while solving the exercises. I also started working on an app which retrieves information from different sources using APIs, and returns them to the user through a GUI.
 
 **Thoughts:** From now on asynch requests, JSON methods and certificates shall become my bread and butter.
+
+### Day 84-85: 2018 June 5th, 6th
+
+**Today's Progress**: Fetch API as an alternative to XHR requests, some server side study cases, a few algorithm challenges on Codefights and FreeCodeCamp, and a lot of headaches.
+
+**Thoughts:** What I'm studying now is, possible, the toughest challenge since I embarked on this journey. Async requests, Promises and other related concepts are fundamental though, so I'd better practice relentlessly. 
