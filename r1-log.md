@@ -531,3 +531,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: Fetch API as an alternative to XHR requests, some server side study cases, a few algorithm challenges on Codefights and FreeCodeCamp, and a lot of headaches.
 
 **Thoughts:** What I'm studying now is, possible, the toughest challenge since I embarked on this journey. Async requests, Promises and other related concepts are fundamental though, so I'd better practice relentlessly. 
+
+### Day 86-87: 2018 June 7th, 8th
+
+**Today's Progress**: Started to tackle Backbone.js. It's weird, but from I've got so far, it'd be very interesting to learn.
+
+**Thoughts:** So far I've been mixing 	quite a few concepts and languages, but I feel like I'm becoming able to sustain the mental effort. I plan to focus on a few areas very soon though. 
