@@ -537,3 +537,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: Started to tackle Backbone.js. It's weird, but from I've got so far, it'd be very interesting to learn.
 
 **Thoughts:** So far I've been mixing 	quite a few concepts and languages, but I feel like I'm becoming able to sustain the mental effort. I plan to focus on a few areas very soon though. 
+
+### Day 88-89-90: 2018 June 11th, 12th, 13th
+
+**Today's Progress**: Recently I've been testing and implementing the new Fetch API, Service Workers and Promises intensively. Things are far from being sky-clear, but they're starting to make sense!
+
+**Thoughts:** I'm happy about my learning pace. It's probably slower than before, but I feel it's more solid.
