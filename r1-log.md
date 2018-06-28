@@ -543,3 +543,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: Recently I've been testing and implementing the new Fetch API, Service Workers and Promises intensively. Things are far from being sky-clear, but they're starting to make sense!
 
 **Thoughts:** I'm happy about my learning pace. It's probably slower than before, but I feel it's more solid.
+
+### Day 91: 2018 June 28th
+
+**Today's Progress**: I resumed tackling the Restaurant Reviews App, and in order to do that, I felt I needed to review some related topics, such as: AJAX, Http Request, Fetch API, XHR, etc. Then I solved a couple of coding challenges and implemented what I re-learnt.
+
+**Thoughts:** I must make sure to start a small project everytime I come across some new concepts, so as to cement what I learn.
