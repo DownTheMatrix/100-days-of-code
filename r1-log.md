@@ -549,3 +549,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I resumed tackling the Restaurant Reviews App, and in order to do that, I felt I needed to review some related topics, such as: AJAX, Http Request, Fetch API, XHR, etc. Then I solved a couple of coding challenges and implemented what I re-learnt.
 
 **Thoughts:** I must make sure to start a small project everytime I come across some new concepts, so as to cement what I learn.
+
+### Day 92: 2018 July 1st 
+
+**Today's Progress**: I made the restaurant app responsive (50%) for smaller devices, and I started coding the service worker for caching the files and make the app usable offline. Then I practiced with mySQL.
+
+**Thoughts:** I'm switching from XHR to Fetch API entirely, and I plan to refactor the code in my other apps as well accordingly. 
