@@ -555,3 +555,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I made the restaurant app responsive (50%) for smaller devices, and I started coding the service worker for caching the files and make the app usable offline. Then I practiced with mySQL.
 
 **Thoughts:** I'm switching from XHR to Fetch API entirely, and I plan to refactor the code in my other apps as well accordingly. 
+
+### Day 93: 2018 July 4th
+
+**Today's Progress**: Again on the app, this time registering my service worker after checking that the browser supports it. Then I kept on going with the mySQL course.
+
+**Thoughts:** Making a progressive web app is tough, but it's clearly a must-have skill. I'm gonna practice harder.
