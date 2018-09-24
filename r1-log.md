@@ -561,3 +561,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: Again on the app, this time registering my service worker after checking that the browser supports it. Then I kept on going with the mySQL course.
 
 **Thoughts:** Making a progressive web app is tough, but it's clearly a must-have skill. I'm gonna practice harder.
+
+### Day 94: 2018 September 24
+
+**Today's Progress**: Can't believe how much time passed since my last update of the log. During this "gap" I learnt a ton of new things: I learnt the foundations of React.js, I completed my Udacity Nanodegree program, and I'm now continuing building up my skills and practicing like crazy.  
+
+**Thoughts:** I've almost completed my portfolio website, which I plan to deploy asap. I'm also following a couple of tutorials at the same time: one about how to make an app with Express, and another about advanced SASS and CSS.
