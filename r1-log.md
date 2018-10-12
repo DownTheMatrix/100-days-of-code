@@ -562,8 +562,15 @@ Then I practiced them and wrote down a few examples for each of them.
 
 **Thoughts:** Making a progressive web app is tough, but it's clearly a must-have skill. I'm gonna practice harder.
 
-### Day 94: 2018 September 24
+### Day 94: 2018 September 24th
 
 **Today's Progress**: Can't believe how much time passed since my last update of the log. During this "gap" I learnt a ton of new things: I learnt the foundations of React.js, I completed my Udacity Nanodegree program, and I'm now continuing building up my skills and practicing like crazy.  
 
 **Thoughts:** I've almost completed my portfolio website, which I plan to deploy asap. I'm also following a couple of tutorials at the same time: one about how to make an app with Express, and another about advanced SASS and CSS.
+
+### Day 95: 2018 October 22th
+
+**Today's Progress**: I've completed the portfolio website, and I'm now testing it in order to improve the performance metrics. I'm also wondering if I should keep a multi-pages architecture, or switch to a seemingly more contemporary one-page layout. Furthermore, I'm commiting daily to the FreeCodeCamp challenges, and I plan to get all the Front End certificates by the end of this year. Finally, I'm experimenting with SASS. 
+
+**Thoughts:** I'm proud of my progresses: I'm now able to tackle basic to intermediate algorithm challenges in JavaScript and Python, something that wasn't even thinkable only a few months ago. I plan to train everyday so as to be ready when a job interview occurs. 
+
