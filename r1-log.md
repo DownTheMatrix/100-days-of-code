@@ -574,3 +574,9 @@ Then I practiced them and wrote down a few examples for each of them.
 
 **Thoughts:** I'm proud of my progresses: I'm now able to tackle basic to intermediate algorithm challenges in JavaScript and Python, something that wasn't even thinkable only a few months ago. I plan to train everyday so as to be ready when a job interview occurs. 
 
+### Day 96: 2018 November 8th
+
+**Today's Progress**: Funnily enough, I only took one week break from coding since I started, but for some reason I often didn't feel like updating the log. Anyway, today I started building a webpage using CSS Grid and Flexbox only. It's a real-estate agency landing page, and Grid is extremely powerful when it comes to laying all the items where they should be.
+
+**Thoughts:** Grid and Flexbox do miracles together. Once done with this project, I intend to build a React app which relies on the grid system as well.
+
