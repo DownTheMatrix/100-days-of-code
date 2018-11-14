@@ -580,3 +580,9 @@ Then I practiced them and wrote down a few examples for each of them.
 
 **Thoughts:** Grid and Flexbox do miracles together. Once done with this project, I intend to build a React app which relies on the grid system as well.
 
+### Day 97: 2018 November 9th
+
+**Today's Progress**: Keeping on with the FreeCodeCamp projects. Today I built a simple Random Quote Machine using React and CSS Grid. I know I could have employed other languages and frameworks, but I wanted to put those into practice. 
+
+**Thoughts:** CSS Grid is getting less obscure everyday. I plan to build more webpages using it along with Flexbox, and employ React to design simple apps.
+
