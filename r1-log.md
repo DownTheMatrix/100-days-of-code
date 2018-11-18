@@ -586,3 +586,9 @@ Then I practiced them and wrote down a few examples for each of them.
 
 **Thoughts:** CSS Grid is getting less obscure everyday. I plan to build more webpages using it along with Flexbox, and employ React to design simple apps.
 
+
+### Day 98: 2018 November 18th
+
+**Today's Progress**: Delivered another project to FCC, and now starting the D3.js (which looks very interesting) section there. I'm also adding/replacing content in my portfolio website.
+
+**Thoughts:** I plan to complete all the Udemy Courses I have pending in a couple of months, and in the meanwhile I will continue with my own projects.
