@@ -597,3 +597,9 @@ Then I practiced them and wrote down a few examples for each of them.
 **Today's Progress**: I'm becoming fluent with SASS and I'm already building my first websites using Pug. 
 
 **Thoughts:** I developed an interest for pure CSS illustrations, which if not performant-friendly, they're extremely interesting and I feel like they will boost my CSS skills tremendously. 
+
+### Day 100: 2018 December 23rd
+
+**Today's Progress**: I did continue learning new things and adding new cool skills to my tool-kit on a daily basis, however I forgot to update my log here. Anyway, my latest achievements were: completing a project for the FreeCodeCamp Front-End Libraries section, learn about advanced responsive designs and perfomance friendly practices. It was a long journey, and I'm happy to see how far I've gone compared to one year ago. Obviously this is not but the beginning of the "real deal", and I intend to stretch my capabilities to their limit and beyond. 
+
+**Thoughts:** Now I'll focus on applying my newly adquired skills to my past, present and future projects in order to become a better developer. 
